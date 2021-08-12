@@ -1,9 +1,4 @@
-## Olá, eu sou Nacélio, bem-vindo ao meu perfil do GitHub!
 
-
-- :telescope: Estou trabalhando em casa, como estudante procastinador.
-- :seedling: Estudando HTML e CSS.
-- :zap: Gosto de café.
 
 <div>
   <a href="https://github.com/1LC7%22%3E
