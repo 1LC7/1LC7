@@ -1,8 +1,8 @@
 ## 「Opa, bem-vindo ao meu perfil no GitHub.」
 
 
-- 15 anos
-- 1/3 Técnico em Informática
+- 16 anos
+- 2/3 Técnico em Informática
 - Entusiasta da tecnologia
 
 
